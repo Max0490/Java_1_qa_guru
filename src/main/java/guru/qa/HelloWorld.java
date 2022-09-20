@@ -40,6 +40,5 @@ public class HelloWorld {
         System.out.println(b + x);
         System.out.println(b / y);
         System.out.println(b - a);
-        System.out.println(g + f);
     }
 }
