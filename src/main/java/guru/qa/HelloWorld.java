@@ -3,7 +3,7 @@ package guru.qa;
 public class HelloWorld {
 
     public static void main(String[] args) {
-       String stringThatShouldBeDisplayedInConsole = "Hello, World!";
+       //String stringThatShouldBeDisplayedInConsole = "Hello, World!";
 
         // must have
         //boolean flag = true;
